@@ -8,7 +8,7 @@
         Title="SecondWindow" Height="450" Width="800">
     <Grid>
         <StackPanel Margin="0,96,0,253">
-            <Button x:Name="BtnBack" Content="Вернуться назад" Click="BtnBack_Click" Height="21" Width="798"/>
+            <Button x:Name="BtnBack" Content="Вернуться назад" Click="BtnBack_Click" Height="45" Width="798"/>
             <TextBlock x:Name="IblSecondWelcome"/>
         </StackPanel>
     </Grid>
